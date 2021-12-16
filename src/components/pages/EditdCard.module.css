@@ -1,0 +1,21 @@
+.titulo{
+    text-align: center;
+    color: chartreuse;
+    font-size: 30pt;
+}
+.contentNomeFilme{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto 20px auto;
+}
+.contentNomeFilme span{
+    text-align: start;
+    color: chartreuse;
+    font-size: 24pt;
+}
+.contentButton{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top:30px;
+}
